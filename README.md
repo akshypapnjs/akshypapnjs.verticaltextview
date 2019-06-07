@@ -8,13 +8,10 @@ Arrange text vertically.
 Step 1: First Add the JitPack.io in the build.gradle app module at the top of the dependency section
 
 allprojects {
-
-    repositories {
-    
+     rpositories {
         maven {
         url 'https://jitpack.io' 
         }
-        
     }
     
 Step 2: Then add this to the dependency section and click on sync now
