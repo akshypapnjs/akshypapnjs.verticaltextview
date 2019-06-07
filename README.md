@@ -6,10 +6,10 @@ Arrange text vertically.
 # How To Add
 
 Step 1: First Add the JitPack.io in the build.gradle app module at the top of the dependency section
+//
 
 allprojects
 {
-
      rpositories {
     
         maven {    
@@ -24,6 +24,7 @@ Step 2: Then add this to the dependency section and click on sync now
 # Usage
 
 You can easily use VerticalTextView as TextView
+//
 
 <com.example.akshypapnjsverticalandhorizontaltextview.AkshayPapnjsVerticalTextView
 
