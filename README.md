@@ -1,12 +1,11 @@
 # VerticalTextView
-Step 1: First Add the JitPack.io in the build.gradle app module at the top of the dependency section
-
-
 
 # Features
 Arrange text vertically.
 
 # How To Add
+
+Step 1: First Add the JitPack.io in the build.gradle app module at the top of the dependency section
 
 allprojects {
     repositories {
@@ -18,6 +17,7 @@ Step 2: Then add this to the dependency section and click on sync now
     implementation 'com.github.akshypapnjs:verticaltextview:1.0.4'
 
 # Usage
+
 You can easily use VerticalTextView as TextView
 
 <com.example.akshypapnjsverticalandhorizontaltextview.AkshayPapnjsVerticalTextView
